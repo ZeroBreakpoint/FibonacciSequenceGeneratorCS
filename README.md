@@ -18,7 +18,7 @@ The Fibonacci sequence is a mathematical series where each number is the sum of 
 - Handles invalid input gracefully with error messaging.
 - Outputs all results to the console in a single line.
 
-## 🛠Technologies
+## Technologies
 
 - Language: C#
 - Framework: .NET Core / .NET 6+
